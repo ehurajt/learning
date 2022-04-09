@@ -1,2 +1,2 @@
-msg ="pokus na tisk"
+msg ="pokus na tisk ???"
 print(msg)
